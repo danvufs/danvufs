@@ -53,6 +53,9 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+    <img alt="Google Play Store" src="https://img.shields.io/badge/-Google%20Play%20Store-000020?style=flat-square&logo=google-play&logoColor=white" />
 
 </p>
 
