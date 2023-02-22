@@ -84,6 +84,8 @@ https://ai-image-generator-v2.vercel.app/
 
 + A web app using React.js and OpenAI API to generate images:
 https://taoanh-ai.vercel.app/
++ Midterm exam for Mobile Development 2:
+https://youtu.be/d3RBBUIs21Y
 
 
 
