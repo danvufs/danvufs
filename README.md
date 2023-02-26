@@ -56,6 +56,7 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
     <img alt="Google Play Store" src="https://img.shields.io/badge/-Google%20Play%20Store-000020?style=flat-square&logo=google-play&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000020?style=flat-square&logo=nodejs&logoColor=white" />
 
 </p>
 
@@ -70,6 +71,9 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
 </a>
 
 ## Projects:
++ My portfolio:
+https://dan-porfolio.vercel.app/
+
 + A car racing game using Matter.js and React Native:
 https://play.google.com/store/apps/details?id=com.dancargame.test
 
@@ -84,8 +88,7 @@ https://ai-image-generator-v2.vercel.app/
 
 + A web app using React.js and OpenAI API to generate images:
 https://taoanh-ai.vercel.app/
-+ Midterm exam for Mobile Development 2:
-https://youtu.be/d3RBBUIs21Y
+...
 
 
 
