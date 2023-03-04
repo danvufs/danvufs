@@ -70,6 +70,7 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
   <img src="https://github-readme-stats.vercel.app/api?username=danvufs&show_icons=true&hide=stars,contribs&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dan's GitHub Stats" />
 </a>
 
+
 ## Projects:
 + My portfolio:
 https://dan-porfolio.vercel.app/
@@ -88,8 +89,19 @@ https://ai-image-generator-v2.vercel.app/
 
 + A web app using React.js and OpenAI API to generate images:
 https://taoanh-ai.vercel.app/
-...
 
++ A web app using Node.js to manage a customer database:
+https://project2-js2.vercel.app/
+
++ A web application that allows you to retrieve MLB game information for any given date in the past three years.
+https://project1-js-2.vercel.app/
+
++ A web app to enhance old or not-so-sharp images, bringing them back to life with sharper details and better colours.
+https://khoiphucanhcu.vercel.app/
+
++ A web app create custom-designed rooms based on your original images.
+https://thiet-ke-phong-ai.vercel.app/
+...
 
 
 <!--
