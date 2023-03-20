@@ -78,6 +78,12 @@ https://dan-porfolio.vercel.app/
 + A car racing game using Matter.js and React Native:
 https://play.google.com/store/apps/details?id=com.dancargame.test
 
++ A shopping cart using React and Firebase:
+https://js4project.vercel.app/
+
++ A web social app using React and Firebase:
+https://chemgio.vercel.app/
+
 + A shopping cart using Angular and Firebase:
 https://finalproject-info-5139-sofk.vercel.app/
 
