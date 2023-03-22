@@ -87,6 +87,9 @@ https://chemgio.vercel.app/
 + A shopping cart using Angular and Firebase:
 https://finalproject-info-5139-sofk.vercel.app/
 
++ A web Todo app using React and Firebase:
+https://todo-app-lab6.vercel.app/
+
 + A web app using JavaScript and HTML/CSS:
 https://final-project-front-end-js-1st-term.vercel.app/
 
