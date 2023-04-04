@@ -112,7 +112,7 @@ https://khoiphucanhcu.vercel.app/
 https://thiet-ke-phong-ai.vercel.app/
 ...
 
-## Video:
+## Videos:
 
 + Final Project (Mobile Development):
 https://www.youtube.com/watch?v=zmqLYQFYttI&t=6s
