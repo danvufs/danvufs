@@ -112,6 +112,26 @@ https://khoiphucanhcu.vercel.app/
 https://thiet-ke-phong-ai.vercel.app/
 ...
 
+## Video:
+
++ Final Project (Mobile Development):
+https://www.youtube.com/watch?v=zmqLYQFYttI&t=6s
+Note: This is my beta version only. You can try with updated version: (https://play.google.com/store/apps/details?id=com.dancargame.test)
+
++ Midterm (Mobile Development):
+https://www.youtube.com/watch?v=d3RBBUIs21Y
+
++ Lab 4 (Mobile Development):
+https://youtube.com/shorts/Ad00xZNlqHw
+
++ Lab 3 (Mobile Development):
+https://www.youtube.com/shorts/wX-HP6lDsVw
+
++ Lab 2 (Mobile Development):
+https://www.youtube.com/shorts/VCPhnCz0_L0
+
++ Lab 1 (Mobile Development):
+https://www.youtube.com/shorts/L8s7x1REwTY
 
 <!--
 **danvufs/danvufs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
