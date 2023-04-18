@@ -115,7 +115,7 @@ https://thiet-ke-phong-ai.vercel.app/
 ## Videos:
 
 + Final Exam (Mobile Development):
-https://youtu.be/xhQ8LZEJgP4
+https://youtu.be/hKKQ-pQhFok
 
 + Final Project (Mobile Development):
 https://www.youtube.com/watch?v=zmqLYQFYttI&t=6s
