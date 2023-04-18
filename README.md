@@ -114,6 +114,9 @@ https://thiet-ke-phong-ai.vercel.app/
 
 ## Videos:
 
++ Final Exam (Mobile Development):
+https://youtu.be/xhQ8LZEJgP4
+
 + Final Project (Mobile Development):
 https://www.youtube.com/watch?v=zmqLYQFYttI&t=6s
 Note: This is my beta version only. You can try with updated version: (https://play.google.com/store/apps/details?id=com.dancargame.test)
