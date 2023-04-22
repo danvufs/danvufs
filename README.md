@@ -8,6 +8,10 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
 - [GitHub](https://www.github.com/danvufs)
 - [E-mail](mailto:vudanmax@gmail.com)
 
+## My GPA
+
+- https://bit.ly/3N24rJX
+
 
 ## 💻 Languages
 
