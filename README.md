@@ -10,7 +10,7 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
 
 ## Full Transcript: My GPA and All Subjects
 
-- https://bit.ly/3N24rJX
+- https://bit.ly/3L5Yw3Z
 
 
 ## 💻 Languages
