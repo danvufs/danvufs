@@ -12,6 +12,12 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
 
 - https://bit.ly/3L5Yw3Z
 
+## Credly:
+- https://www.credly.com/users/dan-vu.f17f4cfc/badges
+
+## GoogleCloud Learning:
+- https://www.cloudskillsboost.google/public_profiles/4c11d71f-6bef-4ea8-b9b6-d14f600a8bd7 
+
 
 ## 💻 Languages
 
@@ -78,6 +84,9 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
 ## Projects:
 + My portfolio:
 https://dan-porfolio.vercel.app/
+
++ Web/App (Android&iOS) for our customer:
+https://www.poshsmarthome.com
 
 + A car racing game using Matter.js and React Native:
 https://play.google.com/store/apps/details?id=com.dancargame.test
