@@ -85,6 +85,9 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
 + My portfolio:
 https://dan-porfolio.vercel.app/
 
++ AI Quiz Generator Platform:
+https://quiz.big-shift.ca
+
 + Web/App (Android&iOS) for our customer:
 https://www.poshsmarthome.com
 
