@@ -91,6 +91,21 @@ https://quiz.big-shift.ca
 + Web/App (Android&iOS) for our customer:
 https://www.poshsmarthome.com
 
++ A web app to help you troubleshoot your stuff (digital devices, home appliances, etc.):
+https://app.repairo.ca
+
++ An AI web app to help you and doctors to understand your diseases, medications, and treatments (MediscanAI):
+https://quanganhtech.com
+
++ An AI web app to help you analyze the video content (AI Video Analysis) with many helpful features:
+https://video.quanganhtech.com
+
++ A PolyAI Chatbot to help you chat with many files including text, images, videos, and more:
+https://ai-poly.vercel.app
+
++ An AI web app to help you transform your home into a new look (iDecor):
+https://idecor.up.railway.app/
+
 + An AI app to examine skin diseases (a gift for Vietnamese doctors):
  https://ai-dermassist.onrender.com/
 + An app to track IRCC processing times:
