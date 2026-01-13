@@ -6,6 +6,7 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
 
 - [LinkedIn](https://www.linkedin.com/in/danducvu/)
 - [GitHub](https://www.github.com/danvufs)
+- [GitHub](https://www.github.com/danvnmedia)
 - [E-mail](mailto:vudanmax@gmail.com)
 
 ## Full Transcript: My GPA and All Subjects
@@ -83,7 +84,7 @@ My name is Dan and I am a Full Stack Developer. I'm living in London, Ontario, C
 
 ## Projects:
 + My portfolio:
-https://dan-porfolio.vercel.app/
+https://dan.ai.vn/
 
 + AI Quiz Generator Platform:
 https://quiz.big-shift.ca
